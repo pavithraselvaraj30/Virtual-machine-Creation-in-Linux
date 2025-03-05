@@ -2,7 +2,11 @@
   ## AIM
        To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
+  Manually executing basic Linux tasks like file management, navigation, and arithmetic operations can be inefficient. This experiment aims to automate these tasks using Bash scripting, including:
+
+ 1.Displaying the current directory, files, and system date.
+ 2.Reading and displaying file contents.
+ 3.Performing basic arithmetic operations.
 
 ## ALGORITHM
  ### Steps 1:
