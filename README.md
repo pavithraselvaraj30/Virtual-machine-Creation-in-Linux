@@ -96,7 +96,17 @@ chmod +x myscript.sh
 ## OUTPUT
 ### REG NUMBER:212223230147
 ### NAME:PAVITHRA S
- ![417051556-73eb14f7-96b1-4685-82de-234802e0831b](https://github.com/user-attachments/assets/b50a9a94-cfb0-4bae-a8af-8bc6a1034d47)
+![421260654-7481ebf5-8edd-4cb2-87cc-e8e64ec9cafc](https://github.com/user-attachments/assets/acffd96d-9b03-48b0-b590-410a3ad1094d)
+
+
+![421258284-cc481926-bcfc-4901-b74d-7f5c76beabd5](https://github.com/user-attachments/assets/034988be-575a-4ec2-b321-b4ea242b5734)
+
+![421258755-ddc08a53-e155-4a5c-afa4-d4a9429696d3](https://github.com/user-attachments/assets/ff29adca-8257-4eed-ae52-48463e24b755)
+
+
+![421262652-a30e5d51-d55c-4ea1-8a39-6bc60e80b50b](https://github.com/user-attachments/assets/72b339dd-4cac-4c4d-82f2-473fbcf78eb1)
+
+
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
